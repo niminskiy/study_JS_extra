@@ -1,4 +1,4 @@
-
+'use stuict';
 
 let lang = 'en';
 let arr;
