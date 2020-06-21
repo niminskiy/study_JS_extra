@@ -22,7 +22,7 @@
 
 
 
-'use strict';
+
 
 
 // function testString(x){
@@ -51,14 +51,14 @@
 // строка должна передаваться как параметр, а не присваиваться, но я это задание не смогу принять пока не приняты основные до текущего дня. я об этом уже говорил, это правило академии направленное на то, чтобы не допускать множества долгов
 
 
+'use strict';
 
-function one() {
-	let x = 10;
+// function funcMath() {
+// 	const a = 10;
+// 	return function() {
+// 		console.log(a * a);
+// 	};
+// }
 
-	function two(y){
-		return x + y;
-	}
-	return two(15);
-}
-
-
+// const mathPow = funcMath();
+// mathPow();
